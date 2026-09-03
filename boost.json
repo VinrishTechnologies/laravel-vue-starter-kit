@@ -1,12 +1,5 @@
 {
-    "agents": [
-        "amp",
-        "codex",
-        "junie",
-        "opencode",
-        "copilot",
-        "claude_code"
-    ],
+    "agents": ["amp", "codex", "junie", "opencode", "copilot", "claude_code"],
     "cloud": false,
     "guidelines": true,
     "mcp": true,
